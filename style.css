@@ -1,0 +1,48 @@
+body {
+  text-align: center;
+  background-color: rgb(221, 221, 221);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.fill {
+  margin-top: 40px;
+  border: none;
+  border-bottom: 0.2px solid darkgray;
+  font-size: 18px;
+  width: 70%;
+  padding: 10px;
+  transition: 300ms;
+}
+
+.main {
+  width: 80%;
+  max-width: 650px;
+  margin: 0 auto;
+  padding: 0;
+  border: 0.5px solid lightgrey;
+  background: white;
+  height: 650px;
+}
+
+.image img {
+  width: 5%;
+  min-width: 50px;
+  max-width: 100px;
+  margin: 20px;
+  cursor: pointer;
+}
+
+.image {
+  background-color: rgb(173, 201, 253);
+  inline-size: auto;
+}
+
+#submit {
+  background-color: blue;
+  color: white;
+  border-radius: 1.2rem;
+  width: 30%;
+  margin-top: 40px;
+  padding: 10px 30px;
+  /* overflow: auto; */
+}
