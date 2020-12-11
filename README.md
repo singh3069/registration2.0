@@ -1,4 +1,4 @@
 # registration2.0
 Registration form 
 <br>
-it just a for practicing my basic HTML and CSS
+it is  just  for practicing My basic HTML and CSS.
