@@ -1,3 +1,4 @@
 # registration2.0
-Sample of Registration form 
-it just a practice sample 
+Registration form 
+<br>
+it just a for practicing my basic HTML and CSS
